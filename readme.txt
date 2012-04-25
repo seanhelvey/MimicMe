@@ -1,0 +1,4 @@
+MimicMe!Bird Song Analyzer***HOW TO RUN THE CODE*** 
+
+Run GUImFile.mNo parameters need to be passed to the function. The wav files should already be cropped and included in the folder together with the solution. You should be able to simply press the green play button in the Matlab IDE as you would normally do to run a script.
+The user is presented with a simple GUI which contains drop down menus to toggle, buttons to press, and graphs to display data. The user may toggle the drop down in order to select the sound of their choice and a specific method for analysis. Once this is complete, they must click the “update” button for the changes to take place. Either the original or the mimicked sound button can be heard at any time by pressing the appropriate “play” button.
